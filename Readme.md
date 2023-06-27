@@ -10,7 +10,7 @@ Hello World!
 ---
 
 <details open>
-    <summary><h2>📘 My Open Source Projects</h2></summary>
+    <summary><h3>📘 My Open Source Projects</h3></summary>
     <p align="center">
         <a href="https://github.com/adnan-faize/reishin-engine"><img width="256" src="" /></a>
     </p>
